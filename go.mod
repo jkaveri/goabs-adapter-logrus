@@ -1,4 +1,4 @@
-module github.com/jkaveri/goabs-log/adapter-logrus
+module github.com/jkaveri/goabs-adapter-logrus
 
 go 1.12
 
