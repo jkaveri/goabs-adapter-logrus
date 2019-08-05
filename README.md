@@ -1,5 +1,9 @@
 # Logrus adapter
 
+[![Build Status](https://travis-ci.org/jkaveri/goabs-adapter-logrus.svg?branch=master)](https://travis-ci.org/jkaveri/goabs-adapter-logrus)
+[![codecov](https://codecov.io/gh/jkaveri/goabs-adapter-logrus/branch/master/graph/badge.svg)](https://codecov.io/gh/jkaveri/goabs-adapter-logrus)
+
+
 An adapter help you connect logrus with [goabs-log](github.com/jkaveri/goabs-log)
 
 ## Usages
