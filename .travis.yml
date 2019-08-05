@@ -8,3 +8,5 @@ go:
 script:
   # build test for supported platforms
   - GO111MODULE=on make all
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
